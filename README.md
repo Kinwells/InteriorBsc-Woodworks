@@ -5,7 +5,7 @@ A professional, responsive website for a custom furniture workshop business, des
 ![Website Preview](https://via.placeholder.com/800x400/8B4513/FFFFFF?text=Furniture+Workshop+Website)
 
 ## 🚀 Live Demo
-[View Live Website](your-live-link-here)
+[View Live Website](https://InteriorBsc-Woodworks.github.io/InteriorBsc-Woodworks/)
 
 ## ✨ Features
 
